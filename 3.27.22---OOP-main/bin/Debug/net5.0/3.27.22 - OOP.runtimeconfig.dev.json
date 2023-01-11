@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/yostry/.dotnet/store/|arch|/|tfm|",
+      "/home/yostry/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/bin/Debug/net5.0/3.27.22 - OOP(Protected)
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/bin/Debug/net5.0/3.27.22 - OOP(Protected).deps.json
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/bin/Debug/net5.0/3.27.22 - OOP(Protected).runtimeconfig.json
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/bin/Debug/net5.0/3.27.22 - OOP(Protected).runtimeconfig.dev.json
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/bin/Debug/net5.0/3.27.22 - OOP(Protected).dll
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/bin/Debug/net5.0/ref/3.27.22 - OOP(Protected).dll
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/bin/Debug/net5.0/3.27.22 - OOP(Protected).pdb
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/obj/Debug/net5.0/3.27.22 - OOP(Protected).csproj.AssemblyReference.cache
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/obj/Debug/net5.0/3.27.22 - OOP(Protected).GeneratedMSBuildEditorConfig.editorconfig
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/obj/Debug/net5.0/3.27.22 - OOP(Protected).AssemblyInfoInputs.cache
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/obj/Debug/net5.0/3.27.22 - OOP(Protected).AssemblyInfo.cs
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/obj/Debug/net5.0/3.27.22 - OOP(Protected).csproj.CoreCompileInputs.cache
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/obj/Debug/net5.0/3.27.22 - OOP(Protected).dll
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/obj/Debug/net5.0/ref/3.27.22 - OOP(Protected).dll
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/obj/Debug/net5.0/3.27.22 - OOP(Protected).pdb
+/home/yostry/Documents/Code/3.27.22 - OOP(Protected)/obj/Debug/net5.0/3.27.22 - OOP(Protected).genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/bin/Debug/net5.0/3.28.22 - OOP(base)
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/bin/Debug/net5.0/3.28.22 - OOP(base).deps.json
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/bin/Debug/net5.0/3.28.22 - OOP(base).runtimeconfig.json
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/bin/Debug/net5.0/3.28.22 - OOP(base).runtimeconfig.dev.json
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/bin/Debug/net5.0/3.28.22 - OOP(base).dll
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/bin/Debug/net5.0/ref/3.28.22 - OOP(base).dll
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/bin/Debug/net5.0/3.28.22 - OOP(base).pdb
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/obj/Debug/net5.0/3.28.22 - OOP(base).csproj.AssemblyReference.cache
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/obj/Debug/net5.0/3.28.22 - OOP(base).GeneratedMSBuildEditorConfig.editorconfig
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/obj/Debug/net5.0/3.28.22 - OOP(base).AssemblyInfoInputs.cache
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/obj/Debug/net5.0/3.28.22 - OOP(base).AssemblyInfo.cs
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/obj/Debug/net5.0/3.28.22 - OOP(base).csproj.CoreCompileInputs.cache
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/obj/Debug/net5.0/3.28.22 - OOP(base).dll
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/obj/Debug/net5.0/ref/3.28.22 - OOP(base).dll
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/obj/Debug/net5.0/3.28.22 - OOP(base).pdb
+/home/yostry/Documents/Code/3.28.22 - OOP(base)/obj/Debug/net5.0/3.28.22 - OOP(base).genruntimeconfig.cache

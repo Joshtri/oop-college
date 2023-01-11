@@ -1,0 +1,16 @@
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/bin/Debug/net5.0/3.28.22 - OPP(Protected Impelent)
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/bin/Debug/net5.0/3.28.22 - OPP(Protected Impelent).deps.json
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/bin/Debug/net5.0/3.28.22 - OPP(Protected Impelent).runtimeconfig.json
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/bin/Debug/net5.0/3.28.22 - OPP(Protected Impelent).runtimeconfig.dev.json
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/bin/Debug/net5.0/3.28.22 - OPP(Protected Impelent).dll
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/bin/Debug/net5.0/ref/3.28.22 - OPP(Protected Impelent).dll
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/bin/Debug/net5.0/3.28.22 - OPP(Protected Impelent).pdb
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/obj/Debug/net5.0/3.28.22 - OPP(Protected Impelent).csproj.AssemblyReference.cache
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/obj/Debug/net5.0/3.28.22 - OPP(Protected Impelent).GeneratedMSBuildEditorConfig.editorconfig
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/obj/Debug/net5.0/3.28.22 - OPP(Protected Impelent).AssemblyInfoInputs.cache
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/obj/Debug/net5.0/3.28.22 - OPP(Protected Impelent).AssemblyInfo.cs
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/obj/Debug/net5.0/3.28.22 - OPP(Protected Impelent).csproj.CoreCompileInputs.cache
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/obj/Debug/net5.0/3.28.22 - OPP(Protected Impelent).dll
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/obj/Debug/net5.0/ref/3.28.22 - OPP(Protected Impelent).dll
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/obj/Debug/net5.0/3.28.22 - OPP(Protected Impelent).pdb
+/home/yostry/Documents/Code/3.28.22 - OPP(Protected Impelent)/obj/Debug/net5.0/3.28.22 - OPP(Protected Impelent).genruntimeconfig.cache

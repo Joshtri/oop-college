@@ -1,0 +1,7 @@
+C:\Users\yosry\source\repos\Tugas PBO-Hewan_n_BangunDatar\Tugas PBO-Hewan_n_BangunDatar\bin\Debug\Tugas PBO-Hewan_n_BangunDatar.exe.config
+C:\Users\yosry\source\repos\Tugas PBO-Hewan_n_BangunDatar\Tugas PBO-Hewan_n_BangunDatar\bin\Debug\Tugas PBO-Hewan_n_BangunDatar.exe
+C:\Users\yosry\source\repos\Tugas PBO-Hewan_n_BangunDatar\Tugas PBO-Hewan_n_BangunDatar\bin\Debug\Tugas PBO-Hewan_n_BangunDatar.pdb
+C:\Users\yosry\source\repos\Tugas PBO-Hewan_n_BangunDatar\Tugas PBO-Hewan_n_BangunDatar\obj\Debug\Tugas PBO-Hewan_n_BangunDatar.csproj.AssemblyReference.cache
+C:\Users\yosry\source\repos\Tugas PBO-Hewan_n_BangunDatar\Tugas PBO-Hewan_n_BangunDatar\obj\Debug\Tugas PBO-Hewan_n_BangunDatar.csproj.CoreCompileInputs.cache
+C:\Users\yosry\source\repos\Tugas PBO-Hewan_n_BangunDatar\Tugas PBO-Hewan_n_BangunDatar\obj\Debug\Tugas PBO-Hewan_n_BangunDatar.exe
+C:\Users\yosry\source\repos\Tugas PBO-Hewan_n_BangunDatar\Tugas PBO-Hewan_n_BangunDatar\obj\Debug\Tugas PBO-Hewan_n_BangunDatar.pdb

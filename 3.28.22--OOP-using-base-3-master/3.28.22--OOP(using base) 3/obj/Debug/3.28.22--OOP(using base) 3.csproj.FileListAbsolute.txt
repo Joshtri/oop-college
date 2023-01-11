@@ -1,0 +1,7 @@
+D:\Code\OOP Only\3.28.22--OOP(using base) 3\3.28.22--OOP(using base) 3\bin\Debug\3.28.22--OOP(using base) 3.exe.config
+D:\Code\OOP Only\3.28.22--OOP(using base) 3\3.28.22--OOP(using base) 3\bin\Debug\3.28.22--OOP(using base) 3.exe
+D:\Code\OOP Only\3.28.22--OOP(using base) 3\3.28.22--OOP(using base) 3\bin\Debug\3.28.22--OOP(using base) 3.pdb
+D:\Code\OOP Only\3.28.22--OOP(using base) 3\3.28.22--OOP(using base) 3\obj\Debug\3.28.22--OOP(using base) 3.csproj.AssemblyReference.cache
+D:\Code\OOP Only\3.28.22--OOP(using base) 3\3.28.22--OOP(using base) 3\obj\Debug\3.28.22--OOP(using base) 3.csproj.CoreCompileInputs.cache
+D:\Code\OOP Only\3.28.22--OOP(using base) 3\3.28.22--OOP(using base) 3\obj\Debug\3.28.22--OOP(using base) 3.exe
+D:\Code\OOP Only\3.28.22--OOP(using base) 3\3.28.22--OOP(using base) 3\obj\Debug\3.28.22--OOP(using base) 3.pdb

@@ -1,0 +1,16 @@
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/bin/Debug/net5.0/7.3.22-perkuliahanpbopert4
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/bin/Debug/net5.0/7.3.22-perkuliahanpbopert4.deps.json
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/bin/Debug/net5.0/7.3.22-perkuliahanpbopert4.runtimeconfig.json
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/bin/Debug/net5.0/7.3.22-perkuliahanpbopert4.runtimeconfig.dev.json
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/bin/Debug/net5.0/7.3.22-perkuliahanpbopert4.dll
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/bin/Debug/net5.0/ref/7.3.22-perkuliahanpbopert4.dll
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/bin/Debug/net5.0/7.3.22-perkuliahanpbopert4.pdb
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/obj/Debug/net5.0/7.3.22-perkuliahanpbopert4.csproj.AssemblyReference.cache
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/obj/Debug/net5.0/7.3.22-perkuliahanpbopert4.GeneratedMSBuildEditorConfig.editorconfig
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/obj/Debug/net5.0/7.3.22-perkuliahanpbopert4.AssemblyInfoInputs.cache
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/obj/Debug/net5.0/7.3.22-perkuliahanpbopert4.AssemblyInfo.cs
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/obj/Debug/net5.0/7.3.22-perkuliahanpbopert4.csproj.CoreCompileInputs.cache
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/obj/Debug/net5.0/7.3.22-perkuliahanpbopert4.dll
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/obj/Debug/net5.0/ref/7.3.22-perkuliahanpbopert4.dll
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/obj/Debug/net5.0/7.3.22-perkuliahanpbopert4.pdb
+/home/yostry/Downloads/7.3.22-perkuliahanpbopert4/obj/Debug/net5.0/7.3.22-perkuliahanpbopert4.genruntimeconfig.cache
